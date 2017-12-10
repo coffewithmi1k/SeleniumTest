@@ -1,0 +1,6 @@
+PageObjects\SemanticPage.class
+PageObjects\AmazonPage.class
+PageObjects\IronSpiderPage.class
+PageObjects\PageNavigator.class
+SeleniumTest\GoBrowserTest.class
+PageObjects\HomePageTwir.class
