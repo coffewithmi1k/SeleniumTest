@@ -38,6 +38,7 @@ public class GoBrowserTest {
             PageNavigator nav = new PageNavigator(driver);
             HomePageTwir onHomePageTwir = nav.getHomePageTwir();
             Thread.sleep(3000);
+            System.out.println("Yey");
         }
     @Test
     public void getAmazon () throws InterruptedException {
